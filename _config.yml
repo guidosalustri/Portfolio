@@ -3,7 +3,7 @@ author: "Guido Salustri"
 description: "Game Developer Portfolio"
 url: "https://guidosalustri.github.io/Portfolio"
 baseurl: "/Portfolio"
-theme: moonwalk
+remote_theme: abhinavs/moonwalk
 paginate: 5
 markdown: kramdown
 plugins:
