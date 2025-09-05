@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.2"
-gem "moonwalk", "~> 1.9"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-moonwalk"
