@@ -1,0 +1,16 @@
+# Chirpy
+
+A Jekyll theme.
+
+## Theme Settings
+
+- title: My Portfolio
+- description: A brief description of my portfolio.
+- author: Guido Salustri
+- url: https://example.com
+- theme: chirpy
+
+## Plugins
+
+- jekyll-feed
+- jekyll-seo-tag
