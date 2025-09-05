@@ -16,3 +16,13 @@ plugins:
   - jekyll-archives
 google_analytics: ""
 disqus: ""
+# Moonwalk-specific config
+moonwalk_theme:
+  menu:
+    - {name: 'Home', link: '/Portfolio/'}
+    - {name: 'Projects', link: '/Portfolio/projects/'}
+    - {name: 'Blog', link: '/Portfolio/blog/'}
+    - {name: 'About', link: '/Portfolio/about/'}
+  social_icons:
+    - {name: 'github', url: 'https://github.com/guidosalustri'}
+    - {name: 'linkedin', url: 'https://linkedin.com/in/guidosalustri'}
