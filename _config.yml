@@ -1,0 +1,18 @@
+title: "Guido Salustri Portfolio"
+author: "Guido Salustri"
+description: "Game Developer Portfolio"
+url: "https://guidosalustri.github.io/Portfolio"
+baseurl: "/Portfolio"
+theme: moonwalk
+paginate: 5
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-disqus
+  - jekyll-archives
+google_analytics: ""
+disqus: ""
