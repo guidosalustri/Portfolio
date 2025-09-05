@@ -1,16 +1,28 @@
-# Chirpy
+title: Guido Salustri’s Game Portfolio
+tagline: Retro-inspired game projects
+description: Welcome to Guido's portfolio of games, built with Chirpy Jekyll.
+url: "https://guidosalustri.github.io/portfolio"
+baseurl: "/portfolio"
+author:
+  name: Guido Salustri
+  url: https://github.com/guidosalustri
+theme: jekyll-theme-chirpy
+lang: en
+timezone: UTC
 
-A Jekyll theme.
+# Theme settings
+theme_mode: dark
 
-## Theme Settings
+# Socials
+social:
+  github: guidosalustri
 
-- title: My Portfolio
-- description: A brief description of my portfolio.
-- author: Guido Salustri
-- url: https://example.com
-- theme: chirpy
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-## Plugins
+# Build settings
+markdown: kramdown
 
-- jekyll-feed
-- jekyll-seo-tag
+# Other Chirpy options...
